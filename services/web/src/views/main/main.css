@@ -16,17 +16,17 @@ body {
 }
 
 .mainBody header {
-  background: #0c5db8;
+  background: #800080;
 }
 
 .mainBody .sidebar {
-  background: #1c4784;
+  background: #800080;
   height: auto;
   flex: 0 0 200px;
 }
 
 .mainBody .sidebar, .mainBody .sidebar .btn {
-  color: #80858d;
+  color: #800080;
 }
 
 header {
